@@ -402,6 +402,7 @@ header .container .form i {
 .portfolio .imgs-container .box {
     position: relative;
     overflow: hidden;
+    cursor: pointer;
 }
 .portfolio .imgs-container .box:hover .caption {
     bottom: 0;
