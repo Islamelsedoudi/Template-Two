@@ -1035,9 +1035,9 @@ header .container .form i {
 .footer .container {
     position: relative;
 }
-
 .footer img {
-    height: 100px;
+    width: 12
+    0px;
     margin-bottom: 20px;
 }
 .footer p:not(.copyright) {
